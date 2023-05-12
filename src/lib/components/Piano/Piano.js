@@ -1,4 +1,5 @@
 import Key from "../Key/Key";
+import React from "react";
 import './Piano.css';
 import { useState } from 'react';
 import SelectedScaleDropdown from "../SelectedScaleDropdown/SelectedScaleDropdown";

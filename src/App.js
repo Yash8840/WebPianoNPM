@@ -1,6 +1,6 @@
 import './App.css';
-import Piano from './components/Piano/Piano';
-import Warning from './components/Warning/Warning';
+import Piano from '.lib/components/Piano/Piano';
+import Warning from '.lib/components/Warning/Warning';
 
 function App() {
   return (

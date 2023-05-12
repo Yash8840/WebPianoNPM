@@ -1,4 +1,5 @@
 import * as Tone from 'tone';
+import React from "react";
 import './Key.css';
 
 const useTonePlayer = (note, sound) => {

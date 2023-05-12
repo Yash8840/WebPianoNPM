@@ -1,0 +1,19 @@
+.key {
+  margin: 5px;
+}
+.white {
+  height: 100px;
+  margin: 0px;
+}
+.gray {
+  height: 100px;
+  margin: 0px;
+  background-color: lightgray;
+}
+
+.black {
+  height: 70px;
+  background-color: black;
+  margin: 0px;
+  color: white;
+}

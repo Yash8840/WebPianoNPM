@@ -24,11 +24,8 @@ function App() {
 ```
 ## Updating this Package
 
-If you are updating this package, and want to create a new version 
-
-Change the version number in package.json and in 
-the "Installation" section in this Readme
-Then run these commands. 
+If you are updating this package, and want to create a new version, change the version number in package.json and in the "Installation" section of this Readme.
+Then run these commands:
 ```
 npm login
 npm run build

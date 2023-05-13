@@ -1,4 +1,3 @@
-import Warning from "./components/Warning/Warning";
-import Piano from "./components/Piano/Piano";
+import Interface from "./components/Interface/Interface";
 
-export { Piano, Warning };
+export { Interface };

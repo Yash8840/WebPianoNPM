@@ -34,4 +34,4 @@ npm login
 npm run build
 npm publish
 ```
-See here for my information: https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f
+See here for more information: https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f

@@ -1,12 +1,10 @@
 import './App.css';
-import Piano from '.lib/components/Piano/Piano';
-import Warning from '.lib/components/Warning/Warning';
+import { Interface } from './lib';
 
 function App() {
   return (
     <div>
-      <Warning/>
-      <Piano/>
+      <Interface/>
     </div>
   );
 }

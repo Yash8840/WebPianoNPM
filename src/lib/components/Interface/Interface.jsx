@@ -4,10 +4,10 @@ import React from "react";
 
 function Interface() {
   return (
-    <>
+    <div className="interface">
       <Piano />
       <Warning/>
-    </>
+    </div>
   )
 }
 
